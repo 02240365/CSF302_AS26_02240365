@@ -2,7 +2,7 @@
 ## Lab Report 3
 
 
-## Q1: Matrix Multiplication — Strassen's vs Traditional
+## Q1: Matrix Multiplication - Strassen's vs Traditional
 
 Compares Traditional matrix multiplication (O(n³)) with Strassen's divide-and-conquer method (O(n^2.81)) for matrix sizes 2 to 128, verifying both give the same result and counting the steps each one takes.
 
