@@ -1,5 +1,4 @@
 """
-CSF302 - Lab 3
 Q3: Binary Search vs Ternary Search (Menu-Driven Program)
 
 WHAT THIS PROGRAM DOES
@@ -19,8 +18,6 @@ A menu-driven program that:
 
 Both search functions return (found_index, steps) so every search
 records how many comparisons it made (step/frequency count).
-
-Student No: 02240365
 """
 
 import random

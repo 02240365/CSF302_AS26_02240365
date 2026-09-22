@@ -1,5 +1,4 @@
 """
-CSF302 - Lab 3
 Q1: Matrix Multiplication - Strassen's vs Traditional
 
 WHAT THIS PROGRAM DOES
@@ -15,8 +14,6 @@ WHAT THIS PROGRAM DOES
    performed by each method (step/frequency count).
 5. Times both methods on increasing matrix sizes and prints a
    comparison table, then plots a graph (time vs n).
-
-Student No: 02240365
 """
 
 import random

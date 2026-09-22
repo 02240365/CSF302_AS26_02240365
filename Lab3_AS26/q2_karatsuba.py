@@ -1,5 +1,4 @@
 """
-CSF302 - Lab 3
 Q2: Karatsuba's Algorithm for Large Integer Multiplication
 
 WHAT THIS PROGRAM DOES
@@ -16,8 +15,6 @@ WHAT THIS PROGRAM DOES
    every test case.
 5. Records step counts, times both methods on increasing digit
    lengths (8, 16, 32, ..., 1024) and plots a comparison graph.
-
-Student No: 02240365
 """
 
 import random
