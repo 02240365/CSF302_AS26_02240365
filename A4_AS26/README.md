@@ -17,7 +17,7 @@ Each function returns `(total_fee, chosen)`, where `chosen` is the sorted list o
 |---|---|
 | `booking.py` | The four functions (Part A) and the analysis (Part C) |
 | `test_booking.py` | Tests, including DP vs brute force on 1,000 random inputs (Part B) |
-| `report.pdf` | Report: counterexamples, DP explanation, ratio table, complexities, reflection |
+| `CSF302_02240365_A4.pdf` | Report: counterexamples, DP explanation, ratio table, complexities, reflection |
 
 ## How to run
 
