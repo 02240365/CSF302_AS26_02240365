@@ -2,7 +2,7 @@
 
 **Sonam Zangmo | Student ID: 02240365 | BE3SWE**
 
-📄 **Full report (PDF):** [CSF302_02240365_A2.pdf](CSF302_02240365_A2.pdf)
+**Full report (PDF):** [CSF302_02240365_A2.pdf](CSF302_02240365_A2.pdf)
 
 
 **AI tool declaration:** I used Claude (Anthropic) to help structure the code, suggest test cases and improve the wording of this report. I ran every program myself, checked the divide-and-conquer output against my brute-force version (all tests pass), and all timings below are from my own machine.
