@@ -2,7 +2,7 @@
 
 **Sonam Zangmo | Student ID: 02240365 | BE3SWE**
 
-📄 **Full report (PDF):** [CSF302_02240365_A3.pdf](CSF302_02240365_A3.pdf)
+**Full report (PDF):** [CSF302_02240365_A3.pdf](CSF302_02240365_A3.pdf)
 
 
 **AI tool declaration:** I used Claude (Anthropic) to help structure the code, suggest test cases and improve the wording of this report. I ran every program myself, checked both sorts against sorted() (all tests pass), and all timings below are from my own machine.
