@@ -2,7 +2,7 @@
 
 **Sonam Zangmo | Student ID: 02240365 | BE3SWE**
 
-📄 **Full report (PDF):** [CSF302_02240365_A4.pdf](CSF302_02240365_A4.pdf)
+**Full report (PDF):** [CSF302_02240365_A4.pdf](CSF302_02240365_A4.pdf)
 
 
 **AI tool declaration:** I used Claude (Anthropic) to help structure the code, suggest test cases and improve the wording of this report. I ran every program myself and checked best_schedule against brute_force (all tests pass). All results below are from my own run.
