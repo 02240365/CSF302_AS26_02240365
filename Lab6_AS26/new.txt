@@ -1,0 +1,8 @@
+Lab meeting notes
+Date: Wednesday
+Topic: Dynamic programming
+Rod cutting is finished
+Matrix chain is tested
+LCS table is printed
+Diff tool is working
+Next meeting: Friday
