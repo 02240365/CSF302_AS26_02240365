@@ -1,0 +1,5 @@
+Dynamic programming and greedy algorithms both build a solution step by step, but they make very different promises. A greedy algorithm looks only at the choice that seems best right now and never changes its mind. That makes it fast and simple, and for some problems, such as choosing activities by earliest finish time or building a Huffman code, it is provably optimal. For other problems, such as the 0/1 knapsack, the same short-sighted choice can lead far away from the best answer.
+
+Dynamic programming is more patient. It solves every smaller subproblem once, stores the answers in a table, and combines them to answer the bigger question. It costs more time and memory, but it never misses the optimum when the problem has optimal substructure.
+
+Randomized algorithms add a third idea: flip a coin. A random pivot makes quickselect fast on every input on average, and a random base lets the Miller-Rabin test decide whether a huge number is prime in a fraction of a second, with a chance of error that shrinks every time the test is repeated.

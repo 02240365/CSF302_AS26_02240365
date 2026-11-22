@@ -1,0 +1,150 @@
+2026-11-22 10:00:00 WARN disk almost full
+2026-11-22 10:00:01 INFO request served
+2026-11-22 10:00:02 INFO user login
+2026-11-22 10:00:03 INFO cache hit
+2026-11-22 10:00:04 WARN request served
+2026-11-22 10:00:05 WARN disk almost full
+2026-11-22 10:00:06 WARN request served
+2026-11-22 10:00:07 INFO request served
+2026-11-22 10:00:08 INFO request served
+2026-11-22 10:00:09 WARN request served
+2026-11-22 10:00:10 INFO request served
+2026-11-22 10:00:11 INFO request served
+2026-11-22 10:00:12 WARN disk almost full
+2026-11-22 10:00:13 INFO request served
+2026-11-22 10:00:14 INFO user login
+2026-11-22 10:00:15 INFO request served
+2026-11-22 10:00:16 INFO disk almost full
+2026-11-22 10:00:17 WARN user login
+2026-11-22 10:00:18 WARN cache hit
+2026-11-22 10:00:19 WARN request served
+2026-11-22 10:00:20 INFO request served
+2026-11-22 10:00:21 INFO disk almost full
+2026-11-22 10:00:22 INFO user login
+2026-11-22 10:00:23 INFO request served
+2026-11-22 10:00:24 INFO request served
+2026-11-22 10:00:25 INFO cache hit
+2026-11-22 10:00:26 WARN cache miss
+2026-11-22 10:00:27 INFO request served
+2026-11-22 10:00:28 INFO request served
+2026-11-22 10:00:29 INFO request served
+2026-11-22 10:00:30 WARN cache miss
+2026-11-22 10:00:31 INFO disk almost full
+2026-11-22 10:00:32 INFO request served
+2026-11-22 10:00:33 ERROR cache miss
+2026-11-22 10:00:34 INFO user login
+2026-11-22 10:00:35 INFO request served
+2026-11-22 10:00:36 INFO user login
+2026-11-22 10:00:37 INFO user login
+2026-11-22 10:00:38 INFO cache miss
+2026-11-22 10:00:39 WARN cache miss
+2026-11-22 10:00:40 INFO cache hit
+2026-11-22 10:00:41 INFO disk almost full
+2026-11-22 10:00:42 INFO request served
+2026-11-22 10:00:43 INFO request served
+2026-11-22 10:00:44 INFO user login
+2026-11-22 10:00:45 INFO disk almost full
+2026-11-22 10:00:46 WARN disk almost full
+2026-11-22 10:00:47 INFO disk almost full
+2026-11-22 10:00:48 INFO disk almost full
+2026-11-22 10:00:49 WARN request served
+2026-11-22 10:00:50 INFO cache miss
+2026-11-22 10:00:51 INFO user login
+2026-11-22 10:00:52 INFO request served
+2026-11-22 10:00:53 INFO user login
+2026-11-22 10:00:54 ERROR request served
+2026-11-22 10:00:55 INFO request served
+2026-11-22 10:00:56 WARN request served
+2026-11-22 10:00:57 INFO request served
+2026-11-22 10:00:58 INFO request served
+2026-11-22 10:00:59 WARN user login
+2026-11-22 10:01:00 INFO request served
+2026-11-22 10:01:01 INFO cache hit
+2026-11-22 10:01:02 INFO disk almost full
+2026-11-22 10:01:03 INFO user login
+2026-11-22 10:01:04 INFO disk almost full
+2026-11-22 10:01:05 INFO request served
+2026-11-22 10:01:06 ERROR cache miss
+2026-11-22 10:01:07 INFO user login
+2026-11-22 10:01:08 WARN request served
+2026-11-22 10:01:09 ERROR cache miss
+2026-11-22 10:01:10 INFO cache miss
+2026-11-22 10:01:11 INFO request served
+2026-11-22 10:01:12 INFO cache miss
+2026-11-22 10:01:13 INFO cache hit
+2026-11-22 10:01:14 INFO request served
+2026-11-22 10:01:15 INFO request served
+2026-11-22 10:01:16 INFO request served
+2026-11-22 10:01:17 ERROR request served
+2026-11-22 10:01:18 INFO request served
+2026-11-22 10:01:19 WARN cache miss
+2026-11-22 10:01:20 INFO request served
+2026-11-22 10:01:21 INFO cache miss
+2026-11-22 10:01:22 WARN request served
+2026-11-22 10:01:23 INFO request served
+2026-11-22 10:01:24 WARN request served
+2026-11-22 10:01:25 INFO cache hit
+2026-11-22 10:01:26 WARN request served
+2026-11-22 10:01:27 INFO request served
+2026-11-22 10:01:28 INFO user login
+2026-11-22 10:01:29 WARN request served
+2026-11-22 10:01:30 INFO cache miss
+2026-11-22 10:01:31 WARN request served
+2026-11-22 10:01:32 ERROR cache hit
+2026-11-22 10:01:33 INFO cache miss
+2026-11-22 10:01:34 INFO cache hit
+2026-11-22 10:01:35 WARN request served
+2026-11-22 10:01:36 WARN cache hit
+2026-11-22 10:01:37 INFO disk almost full
+2026-11-22 10:01:38 INFO request served
+2026-11-22 10:01:39 INFO request served
+2026-11-22 10:01:40 INFO request served
+2026-11-22 10:01:41 WARN cache miss
+2026-11-22 10:01:42 INFO cache miss
+2026-11-22 10:01:43 INFO request served
+2026-11-22 10:01:44 INFO request served
+2026-11-22 10:01:45 INFO request served
+2026-11-22 10:01:46 WARN request served
+2026-11-22 10:01:47 INFO request served
+2026-11-22 10:01:48 INFO request served
+2026-11-22 10:01:49 INFO request served
+2026-11-22 10:01:50 INFO request served
+2026-11-22 10:01:51 WARN request served
+2026-11-22 10:01:52 WARN disk almost full
+2026-11-22 10:01:53 INFO cache hit
+2026-11-22 10:01:54 ERROR request served
+2026-11-22 10:01:55 WARN cache hit
+2026-11-22 10:01:56 INFO request served
+2026-11-22 10:01:57 INFO cache miss
+2026-11-22 10:01:58 INFO user login
+2026-11-22 10:01:59 INFO cache hit
+2026-11-22 10:02:00 INFO user login
+2026-11-22 10:02:01 INFO request served
+2026-11-22 10:02:02 ERROR request served
+2026-11-22 10:02:03 WARN cache miss
+2026-11-22 10:02:04 INFO disk almost full
+2026-11-22 10:02:05 WARN request served
+2026-11-22 10:02:06 INFO request served
+2026-11-22 10:02:07 ERROR user login
+2026-11-22 10:02:08 ERROR user login
+2026-11-22 10:02:09 INFO cache hit
+2026-11-22 10:02:10 INFO request served
+2026-11-22 10:02:11 INFO disk almost full
+2026-11-22 10:02:12 WARN cache miss
+2026-11-22 10:02:13 INFO cache hit
+2026-11-22 10:02:14 INFO cache miss
+2026-11-22 10:02:15 INFO cache hit
+2026-11-22 10:02:16 INFO disk almost full
+2026-11-22 10:02:17 WARN cache miss
+2026-11-22 10:02:18 INFO cache hit
+2026-11-22 10:02:19 INFO user login
+2026-11-22 10:02:20 INFO request served
+2026-11-22 10:02:21 INFO request served
+2026-11-22 10:02:22 INFO cache hit
+2026-11-22 10:02:23 WARN cache miss
+2026-11-22 10:02:24 WARN cache hit
+2026-11-22 10:02:25 ERROR request served
+2026-11-22 10:02:26 INFO disk almost full
+2026-11-22 10:02:27 INFO cache hit
+2026-11-22 10:02:28 INFO request served
+2026-11-22 10:02:29 INFO cache miss
